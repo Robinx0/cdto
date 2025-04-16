@@ -1,6 +1,7 @@
-# cdto — Fast Directory & File Navigator for Zsh
+# cdto — Quick Directory & File Navigation from the Shell 
 
-**cdto** is a lightweight shell utility that lets you quickly jump to directories or locate files by name, with optional fuzzy selection and root-level fallback.
+`cdto` is a lightweight command-line utility for quickly navigating to directories or locating files by name. It supports fuzzy matching, interactive selection, and optional system-wide search when no local match is found.
+
 
 ---
 
